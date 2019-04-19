@@ -1,2 +1,2 @@
-I am first
+First commit to master was first
 I am second
